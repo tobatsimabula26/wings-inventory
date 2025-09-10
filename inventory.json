@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Wings",
+    "description": "Spicy grilled chicken wings with signature sauce",
+    "category": "Food",
+    "price": 8.99,
+    "quantity": 50
+  },
+  {
+    "id": 2,
+    "name": "Coca Cola",
+    "description": "Cold 330ml soft drink",
+    "category": "Beverage",
+    "price": 1.99,
+    "quantity": 100
+  },
+  {
+    "id": 3,
+    "name": "Garlic Bread",
+    "description": "Toasted bread with garlic butter and herbs",
+    "category": "Food",
+    "price": 4.5,
+    "quantity": 15
+  },
+  {
+    "id": 4,
+    "name": "Water Bottle",
+    "description": "500ml bottled drinking water",
+    "category": "Beverage",
+    "price": 1.2,
+    "quantity": 75
+  },
+  {
+    "id": 5,
+    "name": "Buffalo Wings",
+    "description": "Hot and tangy buffalo-style chicken wings",
+    "category": "Food",
+    "price": 9.99,
+    "quantity": 30
+  },
+  {
+    "id": 6,
+    "name": "Fanta Orange",
+    "description": "Cold 330ml orange-flavored soft drink",
+    "category": "Beverage",
+    "price": 1.8,
+    "quantity": 80
+  },
+  {
+    "id": 7,
+    "name": "BBQ Wings",
+    "description": "Grilled wings glazed with smoky BBQ sauce",
+    "category": "Food",
+    "price": 9.49,
+    "quantity": 25
+  },
+  {
+    "id": 8,
+    "name": "Diet Coke",
+    "description": "Sugar-free 330ml soft drink",
+    "category": "Beverage",
+    "price": 1.99,
+    "quantity": 60
+  },
+  {
+    "id": 9,
+    "name": "Chicken Tenders",
+    "description": "Crispy breaded chicken strips with dipping sauce",
+    "category": "Food",
+    "price": 7.99,
+    "quantity": 20
+  },
+  {
+    "id": 10,
+    "name": "Iced Tea",
+    "description": "Chilled sweet tea served in a bottle",
+    "category": "Beverage",
+    "price": 2.2,
+    "quantity": 40
+  },
+  {
+    "id": 11,
+    "name": "Spicy Wings",
+    "description": "Extra hot wings for those who love the heat",
+    "category": "Food",
+    "price": 10.49,
+    "quantity": 12
+  },
+  {
+    "id": 12,
+    "name": "Lemonade",
+    "description": "Freshly made lemonade, sweet and refreshing",
+    "category": "Beverage",
+    "price": 2.5,
+    "quantity": 35
+  }
+]
